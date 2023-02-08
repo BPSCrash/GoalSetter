@@ -4,4 +4,4 @@
 A simple Goal / Todo List made in React Native for iOS and Android using Expo
 
 ## :red_circle: Demo
-![](https://github.com/BPSCrash/GoalSetter/blob/main/Demo.gif =250x250)
+![](https://github.com/BPSCrash/GoalSetter/blob/main/iosDemo.gif)
